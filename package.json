@@ -1,5 +1,5 @@
 {
-  "name": "bws_usa",
+  "name": "gulp-template",
   "version": "1.0.0",
   "description": "Сборка проекта в gulp",
   "main": "index.html",
