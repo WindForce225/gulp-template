@@ -2,17 +2,23 @@
 
 This repository with base settings for web development website.
 
+```bash
+git clone https://github.com/WindForce225/gulp-template.git
+```
+
 ## Starting Development
 
-For MAC os
+For MACos
 
 ```bash
 sudo npm install --global gulp-cli
 ```
+For Windows
 
 ```bash
 npm install --global gulp-cli
 ```
+For all
 
 ```bash
 npm install
